@@ -152,3 +152,22 @@ h2 {
     font-size: 25px;
     font-weight: bold;
 }
+
+/* calling Section */
+.calling-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3883f6;
+    width: 70%;
+    margin: 60px auto;
+    padding: 40px;
+    border-radius: 18px;
+}
+
+.calling-section h2,
+.calling-section p {
+    color: #f9faf8;
+    margin: 0;
+    padding: 0;
+}
