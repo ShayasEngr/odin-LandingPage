@@ -129,3 +129,26 @@ h2 {
     border-radius: 18px;
     margin: auto;
 }
+
+/* Quote section */
+
+.quote-section {
+    background-color: #e5e7eb;
+    color: #1f2937;
+    padding: 120px 120px;
+}
+
+.quote-section blockquote {
+    font-style: italic;
+    font-size: 36px;
+    font-weight: lighter;
+    margin: 0px 95px;
+}
+
+.quote-section p {
+    margin: 0 95px;
+    padding: 0;
+    text-align: right;
+    font-size: 25px;
+    font-weight: bold;
+}
