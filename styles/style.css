@@ -111,8 +111,7 @@ h2 {
     justify-content: space-between;
     align-items: center;
     text-align: center;
-    gap: 12px;
-    width: 85%;
+    gap: 50px;
     margin: 24px auto;
     padding: 16px 120px;
 }
